@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ksarath17
+- 👀 I’m interested in Data science and AI
+- 🌱 I’m currently learning python and ML
